@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=e9320a&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Daniel+Cuestas;I'm+a+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=e9320a&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Daniel+Cuestas;I'm+a+Systems+engineer)](https://git.io/typing-svg)
 # 💫 About Me:
 
 I am a dedicated Software Engineering student in my eighth semester, with academic experience in developing various software projects. I have gained practical knowledge through my work at a software quality assurance company, where I contributed to testing processes and ensured product reliability. Additionally, I have experience editing and updating websites, demonstrating adaptability and attention to detail. I am passionate about software development and continuously seek opportunities to enhance my technical skills and contribute to innovative solutions.

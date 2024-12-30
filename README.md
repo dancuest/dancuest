@@ -8,7 +8,7 @@ I am a dedicated Software Engineering student in my eighth semester, with academ
 
 ## 🌐 Socials:
 <p align="left">
-<a href="www.linkedin.com/in/daniel-jose-cuestas-parada-682202161" target="blank rel="noopener noreferrer""><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+<a href="[www.linkedin.com/in/daniel-jose-cuestas-parada-682202161](https://www.linkedin.com/in/daniel-jose-cuestas-parada-682202161/)" target="blank rel="noopener noreferrer""><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
 <a href = "mailto:dancuest093@gmail.com" target="blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
   </p>
 
